@@ -63,7 +63,7 @@
 
 .nav-items div:hover{
     font-weight: bold;
-    transition: all 5s;
+    transition: all 1s;
 }
 
 a{
